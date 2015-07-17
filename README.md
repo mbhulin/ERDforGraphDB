@@ -4,3 +4,5 @@ JAVA application for creating entity relationship diagrams and translating them 
 First purpose: test GIT and GITHUB.
 
 As of now it is not a real project.
+
+A student is working on this task as his study project.
