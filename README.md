@@ -5,4 +5,4 @@ First purpose: test GIT and GITHUB.
 
 As of now it is not a real project.
 
-A student is working on this task as his study project.
+A student is working on this task as his study project: Florian Neiss
